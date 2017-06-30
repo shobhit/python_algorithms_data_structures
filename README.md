@@ -1,2 +1,1 @@
-# python_algorithms_data_structures
-Python Algorithms and Data Structures
+# Python Algorithms and Data Structures
